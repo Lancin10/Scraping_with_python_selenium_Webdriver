@@ -14,7 +14,7 @@ now = datetime.now()
 month_day_year = now.strftime("%m%d%Y")
 
 web = 'https://www.thesun.co.uk/sport/football/'
-path = '/Users/frankandrade/Downloads/chromedriver'  # introduce path here
+path = '/Users/zahira/Desktop/WEB SCRPAING USING PYTHON/Scraping_automation_with_python/chromedriver'  # introduce path here
 
 # Headless mode
 options = Options()
