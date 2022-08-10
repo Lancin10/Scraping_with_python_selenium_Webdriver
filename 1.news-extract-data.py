@@ -3,7 +3,7 @@ from selenium.webdriver.chrome.service import Service
 import pandas as pd
 
 web = 'https://www.thesun.co.uk/sport/football/'
-path = '/Users/frankandrade/Downloads/chromedriver'  # introduce path here
+path = '/Users/zahira/Desktop/WEB SCRPAING USING PYTHON/Scraping_automation_with_python/chromedriver'  # introduce path here
 
 # Creating the driver
 driver_service = Service(executable_path=path)
